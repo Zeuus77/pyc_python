@@ -4,12 +4,11 @@ ft_set = {"Hello", "tutu!"}
 ft_dict = {"Hello" : "titi!"}
 
 
-ft_list[1] = ft_list[1].replace("tata!", "World")
-ft_tuple = (ft_tuple[0],ft_tuple[1].replace("toto!","France"))
-ft_set.remove("tutu!")
-ft_set.add("Paris")
+ft_list[1] = "world"
+ft_tuple = (ft_tuple[0],"Morocco")
+ft_set = {"Hello","Martil"}
 
-ft_dict["Hello"] = ft_dict["Hello"].replace("titi!","42Paris")
+ft_dict["Hello"] = "1337med"
 
 
 print(ft_list)
