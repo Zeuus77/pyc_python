@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ft_package
+Version: 0.0.1
+Summary: My package
+Home-page: https://github.com/Zeuus77/ft_package
+Author: youel-id
+Author-email: youel-id@42.fr
+License: MIT
+Requires-Python: >=3.8
+License-File: LICENSE
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
